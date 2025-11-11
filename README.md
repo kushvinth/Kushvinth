@@ -1,22 +1,13 @@
-# 💫 About Me:
-Kushvinth Madhavan
-
-Tech Enthusiast | Aspiring Entrepreneur
-
-I’m passionate about Machine Learning, Artificial Intelligence, Virtual and Augmented Reality, Data Science, and Hackathons. Currently, I’m honing my skills in Machine Learning with Python with an eye toward launching my own tech startup in the future.
-
-I’m always excited to collaborate on projects that push the boundaries of technology and explore new ideas. Let’s work together on interesting topics in these fields or any other innovative areas.
-
-Feel free to reach out if you’d like to collaborate!
-
-Contact:
-📧 Email: Kushvinth.m@gmail.com
+# Hi Kushvinth Here 👋
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kushvinthmadhavan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Kushvinthmadhavan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Kushvinthmadhavan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kushvinth) 
+![Main Gif](./kushvinth.gif)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<details>
+  <summary>:zap: GitHub Statitics</summary>
 
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kushvinth&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kushvinth&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</details>
